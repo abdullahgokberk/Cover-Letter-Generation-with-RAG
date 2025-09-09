@@ -1,0 +1,14 @@
+beautifulsoup4
+langchain
+langgraph
+langchainhub
+langchain-community
+langchain-chroma
+python-dotenv
+pytest
+langchain-openai
+python-docx
+fastapi
+langserve
+uvicorn
+sse_starlette
